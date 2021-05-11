@@ -92,8 +92,8 @@ paginate: 10
 
 # ---- Plugins? ----
 plugins:
-  - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # ------------ The following options are not recommended to be modified ------------------
 
