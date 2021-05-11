@@ -9,6 +9,8 @@ PAGES_BRANCH="gh-pages"
 _no_branch=false
 _backup_dir="$(mktemp -d)"
 
+bundle config unset deployment
+
 init() {
   if [[ -z ${GITHUB_ACTION+x} ]]; then
     echo "ERROR: This script is not allowed to run outside of GitHub Action."
