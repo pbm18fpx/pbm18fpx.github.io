@@ -89,6 +89,10 @@ disqus:
 
 paginate: 10
 
+
+# ---- Plugins? ----
+plugins: [jekyll-paginate]
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
