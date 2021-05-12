@@ -2,7 +2,7 @@
 title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
 date: 2008-10-18 13:28:34
 categories: []
-tags: [test]
+tags: []
 ---
 
 2008 is a leap year. That means that three hundred and sixty six days ago,
