@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gemspec
 
 gem 'jekyll-seo-tag'
-gem 'github-pages'
+# gem 'github-pages'
 
 group :test do
   gem "html-proofer", "~> 3.18"
