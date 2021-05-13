@@ -4,10 +4,7 @@ date: '2020-11-08 19:59:00 +0900'
 categories:
   - Blogging
   - 제작
-tags:
-  - blog
-  - github
-  - jekyll
+tags: []
 published: true
 ---
 
